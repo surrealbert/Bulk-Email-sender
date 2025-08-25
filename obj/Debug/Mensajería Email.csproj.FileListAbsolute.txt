@@ -1,0 +1,53 @@
+D:\Windows Libraries\Desktop\Mensajería Email\bin\Debug\Mensajería Email.exe.config
+D:\Windows Libraries\Desktop\Mensajería Email\bin\Debug\Mensajería Email.exe.manifest
+D:\Windows Libraries\Desktop\Mensajería Email\bin\Debug\Mensajería Email.application
+D:\Windows Libraries\Desktop\Mensajería Email\bin\Debug\Mensajería Email.exe
+D:\Windows Libraries\Desktop\Mensajería Email\bin\Debug\Mensajería Email.pdb
+D:\Windows Libraries\Desktop\Mensajería Email\bin\Debug\Newtonsoft.Json.dll
+D:\Windows Libraries\Desktop\Mensajería Email\bin\Debug\WhatsAppApi.dll
+D:\Windows Libraries\Desktop\Mensajería Email\bin\Debug\Newtonsoft.Json.xml
+D:\Windows Libraries\Desktop\Mensajería Email\obj\Debug\Mensajería_Whatsapp.Form1.resources
+D:\Windows Libraries\Desktop\Mensajería Email\obj\Debug\Mensajería_Email.Properties.Resources.resources
+D:\Windows Libraries\Desktop\Mensajería Email\obj\Debug\Mensajería Email.csproj.GenerateResource.cache
+D:\Windows Libraries\Desktop\Mensajería Email\obj\Debug\Mensajería Email.csproj.CoreCompileInputs.cache
+D:\Windows Libraries\Desktop\Mensajería Email\obj\Debug\Mensajería Email.exe.manifest
+D:\Windows Libraries\Desktop\Mensajería Email\obj\Debug\Mensajería Email.application
+D:\Windows Libraries\Desktop\Mensajería Email\obj\Debug\Mensajería Email.csproj.CopyComplete
+D:\Windows Libraries\Desktop\Mensajería Email\obj\Debug\Mensajería Email.exe
+D:\Windows Libraries\Desktop\Mensajería Email\obj\Debug\Mensajería Email.pdb
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.csproj.AssemblyReference.cache
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\obj\Debug\Mensajería_Whatsapp.Form1.resources
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\obj\Debug\Mensajería_Email.Properties.Resources.resources
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.csproj.GenerateResource.cache
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.csproj.CoreCompileInputs.cache
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.exe
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.pdb
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\bin\Debug\Mensajería Email.exe.config
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\bin\Debug\Mensajería Email.exe.manifest
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\bin\Debug\Mensajería Email.application
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\bin\Debug\Mensajería Email.exe
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\bin\Debug\Mensajería Email.pdb
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\bin\Debug\Newtonsoft.Json.dll
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\bin\Debug\WhatsAppApi.dll
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\bin\Debug\Newtonsoft.Json.xml
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.exe.manifest
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.application
+D:\Windows Libraries\Desktop\Programación y proyectos\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.csproj.CopyComplete
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\bin\Debug\Mensajería Email.exe.config
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\bin\Debug\Mensajería Email.exe.manifest
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\bin\Debug\Mensajería Email.application
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\bin\Debug\Mensajería Email.exe
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\bin\Debug\Mensajería Email.pdb
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\bin\Debug\Newtonsoft.Json.dll
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\bin\Debug\WhatsAppApi.dll
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\bin\Debug\Newtonsoft.Json.xml
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.csproj.AssemblyReference.cache
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\obj\Debug\Mensajería_Whatsapp.Form1.resources
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\obj\Debug\Mensajería_Email.Properties.Resources.resources
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.csproj.GenerateResource.cache
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.csproj.CoreCompileInputs.cache
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.exe.manifest
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.application
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.csproj.CopyComplete
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.exe
+D:\Windows Libraries\Desktop\Programas para github\Mensajería Email (Bulk) VS\obj\Debug\Mensajería Email.pdb

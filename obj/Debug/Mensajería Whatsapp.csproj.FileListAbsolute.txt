@@ -1,0 +1,52 @@
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\bin\Debug\Mensajería Whatsapp.exe.config
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\bin\Debug\Mensajería Whatsapp.exe.manifest
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\bin\Debug\Mensajería Whatsapp.application
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\bin\Debug\Mensajería Whatsapp.exe
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\bin\Debug\Mensajería Whatsapp.pdb
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\bin\Debug\WhatsAppApi.dll
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.csproj.AssemblyReference.cache
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\obj\Debug\Mensajería_Whatsapp.Form1.resources
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\obj\Debug\Mensajería_Whatsapp.Properties.Resources.resources
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.csproj.GenerateResource.cache
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.csproj.CoreCompileInputs.cache
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.exe.manifest
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.application
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.csproj.CopyComplete
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.exe
+D:\Windows Libraries\Desktop\Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.pdb
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\bin\Debug\Mensajería Whatsapp.exe.config
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\bin\Debug\Mensajería Whatsapp.exe.manifest
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\bin\Debug\Mensajería Whatsapp.application
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\bin\Debug\Mensajería Whatsapp.exe
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\bin\Debug\Mensajería Whatsapp.pdb
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\bin\Debug\WhatsAppApi.dll
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\obj\Debug\Mensajería_Whatsapp.Form1.resources
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\obj\Debug\Mensajería_Whatsapp.Properties.Resources.resources
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.csproj.GenerateResource.cache
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.csproj.CoreCompileInputs.cache
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.exe.manifest
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.application
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.csproj.CopyComplete
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.exe
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.pdb
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\obj\Debug\Mensajería Whatsapp.csproj.AssemblyReference.cache
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\bin\Debug\Newtonsoft.Json.dll
+D:\Windows Libraries\Desktop\Proyecto VS Mensajería Whatsapp\bin\Debug\Newtonsoft.Json.xml
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\bin\Debug\Mensajería Whatsapp.exe.config
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\bin\Debug\Mensajería Whatsapp.exe.manifest
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\bin\Debug\Mensajería Whatsapp.application
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\bin\Debug\Mensajería Whatsapp.exe
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\bin\Debug\Mensajería Whatsapp.pdb
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\bin\Debug\Newtonsoft.Json.dll
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\bin\Debug\WhatsAppApi.dll
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\bin\Debug\Newtonsoft.Json.xml
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\obj\Debug\Mensajería_Whatsapp.Form1.resources
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\obj\Debug\Mensajería_Whatsapp.Properties.Resources.resources
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\obj\Debug\Mensajería Whatsapp.csproj.GenerateResource.cache
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\obj\Debug\Mensajería Whatsapp.csproj.CoreCompileInputs.cache
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\obj\Debug\Mensajería Whatsapp.exe.manifest
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\obj\Debug\Mensajería Whatsapp.application
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\obj\Debug\Mensajería Whatsapp.csproj.CopyComplete
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\obj\Debug\Mensajería Whatsapp.exe
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\obj\Debug\Mensajería Whatsapp.pdb
+D:\Windows Libraries\Desktop\Mensajería Whatsapp VS\obj\Debug\Mensajería Whatsapp.csproj.AssemblyReference.cache
